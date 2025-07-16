@@ -73,7 +73,7 @@
         <section class="gallery">
             <figure class="gallery-item">
                 <a href="images/IMG_1539.jpeg" data-lightbox="gallery" data-title="StoneHenge">
-                    <img src="images/IMG_1539.jpeg" alt=" StoneHenge" loading="lazy">
+                    <img src="images/IMG_1539.jpeg" alt="StoneHenge driveby" loading="lazy">
                 </a>
                 <figcaption class="caption">StoneHenge driveby</figcaption>
                 </figure>
@@ -180,11 +180,11 @@
                 <figcaption class="caption">Gilbertines in Bristol II</figcaption>
             </figure>
             <figure class="gallery-item">
-                <a href="images/IMG-20250703-WA0020.jpg" data-lightbox="gallery" data-title="Board games night">
-                    <img src="images/IMG-20250703-WA0020.jpg" alt="Board games night" loading="lazy">
+                <a href="images/IMG-20250704-WA0026.jpg" data-lightbox="gallery" data-title="Bonus photo 3">
+                    <img src="images/IMG-20250704-WA0026.jpg" alt="Bonus photo 3" loading="lazy">
                 </a>
-                <figcaption class="caption">The View</figcaption>
-            </figure>
+                <figcaption class="caption">Frozen cocktails</figcaption>
+            </figure>             
             <figure class="gallery-item">
                 <a href="images/IMG_1607.jpeg" data-lightbox="gallery" data-title="Breakfast time">
                     <img src="images/IMG_1607.jpeg" alt="Breakfast time" loading="lazy">
@@ -256,13 +256,7 @@
                     <img src="images/PXL_20250704_100932680.jpg" alt="Final morning" loading="lazy">
                 </a>
                 <figcaption class="caption">King Sadegh</figcaption>
-            </figure>    
-            <figure class="gallery-item">
-                <a href="images/IMG-20250704-WA0026.jpg" data-lightbox="gallery" data-title="Bonus photo 3">
-                    <img src="images/IMG-20250704-WA0026.jpg" alt="Bonus photo 3" loading="lazy">
-                </a>
-                <figcaption class="caption">Frozen cocktails</figcaption>
-            </figure>                  
+            </figure>                     
             <figure class="gallery-item">
                 <a href="images/IMG-20250704-WA0024.jpg" data-lightbox="gallery" data-title="Bonus photo 1">
                     <img src="images/IMG-20250704-WA0024.jpg" alt="Bonus photo 1" loading="lazy">
@@ -272,5 +266,6 @@
         </section>
         <p>Thank you for visiting the gallery!</p>
     </main>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 </body>
 </html>
