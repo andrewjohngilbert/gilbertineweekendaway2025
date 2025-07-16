@@ -68,8 +68,8 @@
 </head>
 <body>
     <main>
-        <h1>Gilbertine Weekend Away - Hereford 2024</h1>
-        <p>For the Gilbertine Lab, weekend away 2024, we headed to Hereford to sample the River Wye, through a day of canoeing.</p>
+        <h1>Gilbertine Weekend Away - Bristol 2025</h1>
+        <p>For the Gilbertine Lab, weekend away 2025, we headed to Bristol to race go-karts and explore the immerisve Wake the Tiger experience.</p>
         <section class="gallery">
             <figure class="gallery-item">
                 <a href="images/IMG_1539.jpeg" data-lightbox="gallery" data-title="StoneHenge">
@@ -106,55 +106,43 @@
                     <img src="images/PXL_20250702_180633206.jpg" alt="Unpacking the car" loading="lazy">
                 </a>
                 <figcaption class="caption">Xu and Sadegh on the BBQ</figcaption>
-            </figure>
+            </figure> 
             <figure class="gallery-item">
-                <a href="images/IMG-20250702-WA0006.jpg" data-lightbox="gallery" data-title="Evening games">
-                    <img src="images/IMG-20250702-WA0006.jpg" alt="Evening games" loading="lazy">
+                <a href="images/PXL_20250702_173720249.jpg" data-lightbox="gallery" data-title="Arrival at the house">
+                    <img src="images/PXL_20250702_173720249.jpg" alt="Arrival at the house" loading="lazy">
                 </a>
-                <figcaption class="caption">Xu and Sadegh in charge of the BBQ</figcaption>
-            </figure>            
+                <figcaption class="caption">Chefs Ed and Sadegh</figcaption>
+            </figure>                      
             <figure class="gallery-item">
                 <a href="images/IMG_1546.jpeg" data-lightbox="gallery" data-title="View of the countryside">
                     <img src="images/IMG_1546.jpeg" alt="View of the countryside" loading="lazy">
                 </a>
                 <figcaption class="caption">Xu's Birthday Cake</figcaption>
-            </figure>
-            <figure class="gallery-item">
-                <a href="images/IMG_1549.jpeg" data-lightbox="gallery" data-title="Xu in action">
-                    <img src="images/IMG_1549.jpeg" alt="Xu in action" loading="lazy">
-                </a>
-                <figcaption class="caption">Xu in action</figcaption>
             </figure>                      
             <figure class="gallery-item">
                 <a href="images/24C710C9-0995-431B-8362-02E3602AEABF.jpg" data-lightbox="gallery" data-title="The Clifton Suspension Bridge">
                     <img src="images/24C710C9-0995-431B-8362-02E3602AEABF.jpg" alt="The Clifton Suspension Bridge" loading="lazy">
                 </a>
-                <figcaption class="caption">The Clifton Suspension Bridge</figcaption>
-            </figure>     
-            <figure class="gallery-item">
-                <a href="images/IMG_1568.jpeg" data-lightbox="gallery" data-title="Evening gathering">
-                    <img src="images/IMG_1568.jpeg" alt="Evening gathering" loading="lazy">
-                </a>
                 <figcaption class="caption">Clifton Suspension Bridge</figcaption>
-            </figure>  
+            </figure>     
             <figure class="gallery-item">
                 <a href="images/IMG-20250702-WA0007.jpg" data-lightbox="gallery" data-title="Relaxing after dinner">
                     <img src="images/IMG-20250702-WA0007.jpg" alt="Relaxing after dinner" loading="lazy">
                 </a>
                 <figcaption class="caption">The Gilbertines in Bristol</figcaption>
-            </figure>                              
+            </figure>   
+            <figure class="gallery-item">
+                <a href="images/IMG_1575.jpeg" data-lightbox="gallery" data-title="Exploring the woods">
+                    <img src="images/IMG_1575.jpeg" alt="Exploring the woods" loading="lazy">
+                </a>
+                <figcaption class="caption">Walking with purpose</figcaption>
+            </figure>                                         
             <figure class="gallery-item">
                 <a href="images/IMG_1545.jpeg" data-lightbox="gallery" data-title="Banksy Well hung lover in Bristol">
                     <img src="images/IMG_1545.jpeg" alt="Banksy Well hung lover in Bristol" loading="lazy">
                 </a>
                 <figcaption class="caption">Banksy "Well hung lover" in Bristol</figcaption>
             </figure>
-            <figure class="gallery-item">
-                <a href="images/IMG_1575.jpeg" data-lightbox="gallery" data-title="Exploring the woods">
-                    <img src="images/IMG_1575.jpeg" alt="Exploring the woods" loading="lazy">
-                </a>
-                <figcaption class="caption">walking with purpose</figcaption>
-            </figure>  
             <figure class="gallery-item">
                 <a href="images/24DB4473-954E-44EB-B515-8AA7820110A8.jpeg" data-lightbox="gallery" data-title="Adrienne and Irene preped for the karting">
                     <img src="images/24DB4473-954E-44EB-B515-8AA7820110A8.jpeg" alt="Adrienne and Irene preped for the karting" loading="lazy">
@@ -198,10 +186,28 @@
                 <figcaption class="caption">The View</figcaption>
             </figure>
             <figure class="gallery-item">
+                <a href="images/IMG_1607.jpeg" data-lightbox="gallery" data-title="Breakfast time">
+                    <img src="images/IMG_1607.jpeg" alt="Breakfast time" loading="lazy">
+                </a>
+                <figcaption class="caption">4th July Fireworks</figcaption>
+            </figure> 
+            <figure class="gallery-item">
+                <a href="images/IMG-20250704-WA0013.jpg" data-lightbox="gallery" data-title="Looking back">
+                    <img src="images/IMG-20250704-WA0013.jpg" alt="Looking back" loading="lazy">
+                </a>
+                <figcaption class="caption">The fireworks...</figcaption>
+            </figure>            
+            <figure class="gallery-item">
+                <a href="images/IMG_1611.jpeg" data-lightbox="gallery" data-title="Ready for adventure">
+                    <img src="images/IMG_1611.jpeg" alt="Ready for adventure" loading="lazy">
+                </a>
+                <figcaption class="caption">Wake the Tiger</figcaption>
+            </figure>  
+<figure class="gallery-item">
                 <a href="images/IMG-20250704-WA0027.jpg" data-lightbox="gallery" data-title="Bonus photo 4">
                     <img src="images/IMG-20250704-WA0027.jpg" alt="Bonus photo 4" loading="lazy">
                 </a>
-                <figcaption class="caption">wake the Tiger photo 4</figcaption>
+                <figcaption class="caption">wake the Tiger </figcaption>
             </figure>            
             <figure class="gallery-item">
                 <a href="images/IMG-20250704-WA0003.jpg" data-lightbox="gallery" data-title="Packing up">
@@ -232,37 +238,7 @@
                     <img src="images/IMG-20250704-WA0011.jpg" alt="On the road again" loading="lazy">
                 </a>
                 <figcaption class="caption">On the road again</figcaption>
-            </figure>
-            <figure class="gallery-item">
-                <a href="images/IMG-20250704-WA0013.jpg" data-lightbox="gallery" data-title="Looking back">
-                    <img src="images/IMG-20250704-WA0013.jpg" alt="Looking back" loading="lazy">
-                </a>
-                <figcaption class="caption">Looking back</figcaption>
-            </figure>
-            <figure class="gallery-item">
-                <a href="images/PXL_20250702_173720249.jpg" data-lightbox="gallery" data-title="Arrival at the house">
-                    <img src="images/PXL_20250702_173720249.jpg" alt="Arrival at the house" loading="lazy">
-                </a>
-                <figcaption class="caption">Arrival at the house</figcaption>
-            </figure>
-            <figure class="gallery-item">
-                <a href="images/PXL_20250704_100932680.jpg" data-lightbox="gallery" data-title="Final morning">
-                    <img src="images/PXL_20250704_100932680.jpg" alt="Final morning" loading="lazy">
-                </a>
-                <figcaption class="caption">King Sadegh</figcaption>
-            </figure>
-            <figure class="gallery-item">
-                <a href="images/IMG_1607.jpeg" data-lightbox="gallery" data-title="Breakfast time">
-                    <img src="images/IMG_1607.jpeg" alt="Breakfast time" loading="lazy">
-                </a>
-                <figcaption class="caption">4th July Fireworks</figcaption>
-            </figure> 
-            <figure class="gallery-item">
-                <a href="images/IMG_1611.jpeg" data-lightbox="gallery" data-title="Ready for adventure">
-                    <img src="images/IMG_1611.jpeg" alt="Ready for adventure" loading="lazy">
-                </a>
-                <figcaption class="caption">Wake the Tiger</figcaption>
-            </figure>  
+            </figure>            
             <figure class="gallery-item">
                 <a href="images/IMG_1621.jpeg" data-lightbox="gallery" data-title="Packing up the canoes">
                     <img src="images/IMG_1621.jpeg" alt="Packing up the canoes" loading="lazy">
@@ -274,7 +250,13 @@
                     <img src="images/IMG-20250704-WA0025.jpg" alt="Bonus photo 2" loading="lazy">
                 </a>
                 <figcaption class="caption">Ed and Obi's special lasanges</figcaption>
-            </figure>      
+            </figure>  
+                        <figure class="gallery-item">
+                <a href="images/PXL_20250704_100932680.jpg" data-lightbox="gallery" data-title="Final morning">
+                    <img src="images/PXL_20250704_100932680.jpg" alt="Final morning" loading="lazy">
+                </a>
+                <figcaption class="caption">King Sadegh</figcaption>
+            </figure>    
             <figure class="gallery-item">
                 <a href="images/IMG-20250704-WA0026.jpg" data-lightbox="gallery" data-title="Bonus photo 3">
                     <img src="images/IMG-20250704-WA0026.jpg" alt="Bonus photo 3" loading="lazy">
